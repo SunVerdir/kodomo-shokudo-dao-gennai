@@ -14,7 +14,7 @@
 | ワーキングペーパー | [`paper/WORKING_PAPER.md`](paper/WORKING_PAPER.md) |
 | 2ページブリーフ | [`paper/POLICY_BRIEF.md`](paper/POLICY_BRIEF.md) |
 
-**Zenodo DOI**: [10.5281/zenodo.22040861](https://doi.org/10.5281/zenodo.22040861)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22040861.svg)](https://doi.org/10.5281/zenodo.22040861)
 
 ---
 
