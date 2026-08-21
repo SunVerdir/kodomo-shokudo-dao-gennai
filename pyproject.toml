@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kodomo-shokudo-dao-gennai"
+version = "0.1.0"
+description = "Offline prototype: kodomo shokudo DAO x Meta Marche with staged identity and Gennai stub"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Atsunari Sugano" }]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/SunVerdir/kodomo-shokudo-dao-gennai"
+ORCID = "https://orcid.org/0009-0003-1371-5267"
+Wikidata = "https://www.wikidata.org/wiki/Q100455577"
+
+[tool.setuptools]
+py-modules = ["kodomo_shokudo_dao_meta_marche"]

@@ -1,0 +1,39 @@
+{
+  "title": "子ども食堂DAO × Metaマルシェ地方創生AX：源内連携と段階的本人確認に関するワーキングペーパー",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "査読前（非査読）ワーキングペーパー。ガバメントAI「源内」の公表事実と、子ども食堂DAO・Metaマルシェ構想の未実証仮説を切り分け、World IDを必須前提としない段階的本人確認と監査台帳の参考実装を示す。政策の採択や自治体への一般提供を主張するものではない。対応するMITライセンスのPythonプロトタイプを同一バージョンで公開する。",
+  "creators": [
+    {
+      "name": "Sugano, Atsunari",
+      "affiliation": "経営DXラボ",
+      "orcid": "0009-0003-1371-5267"
+    }
+  ],
+  "keywords": [
+    "地方創生AX",
+    "ガバメントAI源内",
+    "子ども食堂",
+    "DAO",
+    "World ID",
+    "政策実証",
+    "プレプリント"
+  ],
+  "license": "cc-by-4.0",
+  "language": "jpn",
+  "doi": "10.5281/zenodo.22040861",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementedBy",
+      "identifier": "https://github.com/SunVerdir/kodomo-shokudo-dao-gennai",
+      "scheme": "url",
+      "resource_type": "software"
+    },
+    {
+      "relation": "references",
+      "identifier": "https://www.wikidata.org/wiki/Q100455577",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Non-peer-reviewed preprint / working paper. Version 0.1.0 (2026-08-21). GitHub repository URL confirmed as canonical. DOI reserved via Zenodo (not yet published); add the software DOI separately if minted as its own deposit."
+}

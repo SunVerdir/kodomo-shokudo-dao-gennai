@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "ガバメントAI「源内」と段階的本人確認による子ども食堂DAO × Metaマルシェ 地方創生AXプロトタイプ"
+message: このソフトウェアを引用する場合は、以下のメタデータを用いてください。
+type: software
+authors:
+  - family-names: Sugano
+    given-names: Atsunari
+    orcid: https://orcid.org/0009-0003-1371-5267
+    affiliation: 経営DXラボ
+repository-code: https://github.com/SunVerdir/kodomo-shokudo-dao-gennai
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22040861
+    description: 対応するワーキングペーパー（Zenodo、査読前）のDOI
+url: https://www.sunverdir.com
+abstract: >
+  子ども食堂DAOとMetaマルシェを、ガバメントAI「源内」連携スタブと
+  Proof of Personhood（World IDは選択肢）で束ねる、標準ライブラリのみの
+  オフライン実証プロトタイプ。本成果物は査読前ワーキングペーパーに対応する
+  再現可能な参考実装であり、自治体への一般提供や公金投入の決定を示すものではない。
+keywords:
+  - 地方創生AX
+  - ガバメントAI源内
+  - 子ども食堂
+  - DAO
+  - World ID
+  - 政策実証
+license: MIT
+version: 0.1.0
+date-released: "2026-08-21"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Sugano
+      given-names: Atsunari
+      orcid: https://orcid.org/0009-0003-1371-5267
+  title: "子ども食堂DAO × Metaマルシェ地方創生AX：源内連携と段階的本人確認に関するワーキングペーパー"
+  year: 2026
+  doi: 10.5281/zenodo.22040861
+  notes: Zenodo preprint (non-peer-reviewed). DOI reserved; deposit not yet published.
