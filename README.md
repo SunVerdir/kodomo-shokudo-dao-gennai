@@ -1,3 +1,4 @@
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:32881de7b11ea89db6b0bc82210bf990b1462efd/)](https://archive.softwareheritage.org/swh:1:dir:32881de7b11ea89db6b0bc82210bf990b1462efd;origin=https://github.com/SunVerdir/kodomo-shokudo-dao-gennai;visit=swh:1:snp:8d791dd09f60cbfb22ea45b924248df82ddaaf6b;anchor=swh:1:rev:7cb642f8eb91312bf932d037782dba5fb371bc18)
 # ガバメントAI「源内」と段階的本人確認による子ども食堂DAO × Metaマルシェ 地方創生AXプロトタイプ
 
 査読前ワーキングペーパー（非査読）に対応する、**再現可能な参考実装**です。  
